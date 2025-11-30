@@ -120,8 +120,5 @@ A full-stack web application for managing delivery orders with real-time updates
 
 ## GitHub Repository
 
-[Link to GitHub repository]
+https://github.com/kdurgamaheshm/Delivery-Managment-System/
 
-## Contact
-
-For any questions or feedback, please contact hrittik.garain@perceptechsolutions.com
