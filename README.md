@@ -114,9 +114,9 @@ A full-stack web application for managing delivery orders with real-time updates
 - Build the app: `npm run build`
 - Deploy to Netlify, Vercel, or similar
 
-## Video Demo
+## Live Link
 
-[Link to video demo showing full order lifecycle]
+https://maheshdeliverymanagmentsystem.netlify.app/
 
 ## GitHub Repository
 
